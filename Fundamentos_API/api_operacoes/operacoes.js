@@ -1,17 +1,13 @@
 const {somar,multiplicar,dividir,subtrair} = require ('../function/functions')
 
 function apiSomar(req, res){
-    try{
-        const {num1, num2} = req.body
-        console.log(num1,num2)
-        const result = somar(num1, num2)
+    const {num1  , num2} = req.body;
+    const result = somar(num1, num2)
 
     res.status(200).send
     ({
-        result
-    })} catch (e){
-    res.status(500).send({ msg: e.message})
-    }
+        result: result
+    })
 }
 
  function apiMultiplicar(req, res){
