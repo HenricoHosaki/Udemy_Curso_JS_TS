@@ -1,0 +1,23 @@
+{
+  "name": "exemplo",
+  "version": "1.0.0",
+  "description": "Minha primeira ApiRestful em nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenricoHosaki/exemplo.git"
+  },
+  "author": "Henrico Hosaki Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenricoHosaki/exemplo/issues"
+  },
+  "homepage": "https://github.com/HenricoHosaki/exemplo#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
+
