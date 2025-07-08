@@ -8,9 +8,9 @@
 
 **Get e Post;**
 
-**Postman.**
+**Postman;**
 
-**Node e Express**
+**Node e Express;**
 
-**Tratamento de erro**
+**Tratamento de erro.**
 
