@@ -1,23 +1,27 @@
 # Curso Udemy: Do Zero à API: Curso de JavaScript e TypeScript JS/TS
 
-### Conteúdo sobre:
+## Conteúdo sobre:
 
-**Protocolo HTTPS**
+### Protocolo HTTPS
 
-**Request, Response**
+### Request, Response
 
-**Get e Post**
+### Get e Post
 
-**Postman**
+### Postman
+
 Utilizei durante o curso para aplicações com método Post.
 
-**Node e Express;**
-Criação de variável que recebe o framework express.
-Const express = require ('express');
+### Node e Express 
 
-**Tratamento de erro.**
+Criação de variável que recebe o framework express.
+
+const express = require ('express');
+
+### Tratamento de erro.
 
 **Métodos Try e Catch**
+
 Aprendi a utilizar o método try catch aplicando em exercícios disponíveis ao longo curso,
 utilizando para captura de erros presentes na pasta "Fundamentos_Debug".
 
