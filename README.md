@@ -25,3 +25,6 @@ const express = require ('express');
 Aprendi a utilizar o método try catch aplicando em exercícios disponíveis ao longo curso,
 utilizando para captura de erros presentes na pasta "Fundamentos_Debug".
 
+**JSON**
+
+Utilização de formato JSON para troca de dados
